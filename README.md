@@ -139,3 +139,23 @@ Se você escolhe react, aqui está um livro gratuito [The road to learn react po
 Aqui vai um repositório com perguntas e respostas da pra aprender bastante também.
 - [Reactjs questões de entrevista](https://github.com/pedrincandido/reactjs-questoes-de-entrevista)
 - [Angular questões de entrevista](https://github.com/pedrincandido/angular-questoes-entrevista)
+
+### Dias 120-122 Rest
+Representational State Transfer(Transferência Representacional de Estado), é um estilo de arquitetura de software que define um conjunto de restrições a serem usados para criação de web services.
+[Rest Principios e boas práticas](https://blog.caelum.com.br/rest-principios-e-boas-praticas/)
+[O que é api rest e restful](https://becode.com.br/o-que-e-api-rest-e-restful/)
+[Rest](https://www.youtube.com/watch?v=S7MduKwvVGk)
+
+### Dias 122-30 Orientação a objetos e Programação Funcional
+Programação orientada a objetos(POO ou OOP) é um paradigma de programação baseado no conceito de "objetos".
+
+Programação funcional é um paradigma de programação que trata a computação como uma avaliação de funções matemáticas.
+
+[Programação Funcional](https://www.youtube.com/watch?v=BxbHGPivjdc)
+
+Esses temas tem bastante material na internet, então de uma procurada.
+
+### Dias 130-190 Aprender node, mongoDB e PostgreSQL(Backend development)
+
+### Dias 190-200 Aprender DevOps(Docker, Heroku, AWS)
+
