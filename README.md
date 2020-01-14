@@ -117,7 +117,7 @@ O que aprendi com essas lições? Busque sempre algo que te motive e trabalhe co
 Lembre-se, seu objetivo é achar uma vaga de desenvolvedor, procure algumas vagas na sua cidade,olhe o que estão precisando, qual framework, outro meio entre em [Vagas Front-end](https://github.com/frontendbr) de uma olhada nas vagas em aberto, olhe as skills necessárias e foque nelas, foque em uma vaga. 
 
 
-**Note: React é uma biblioteca Javascript para construir UI. Aprenda react no site oficial.**
+**Note: React é uma biblioteca Javascript para construir UI, aprenda react no site oficial.**
 
 
 Temos um gráfico abaixo de desenvolvimento web e como suas tecnologias estão conectadas
