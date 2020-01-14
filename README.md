@@ -11,7 +11,7 @@
 |2 | [Dias 16-50 Comece aprender o básico de Javascript?](#dias-16-50-comece-aprender-o-básico-de-javascript)|
 |3 | [Dias 51-81 30 Dias de desafios Javascript](#dias-51-81-30-dias-de-desafios-javascript)|
 |4 | [Dias 82-85 Git](#dias-82-85-git)|
-|4 | [85-120 Aprenda algum framework ou biblioteca](#85-120-aprenda-algum-framework-ou-biblioteca)|
+|5 | [Dias 85-120 Aprenda algum framework ou biblioteca](#dias-85-120-aprenda-algum-framework-ou-biblioteca)|
 
 
 Essa rota vai levar você pelos caminhos de um desenvolvedor full stack em 200 dias. Eu sou um programador autodita, estou aprendendo todos os dias. Meu primeiro contato com o mundo de TI, a programação em si, foi quando eu tinha 17 anos, na faculdade de sistemas de informação, hoje tenho 24. Porque esse é um caminho full stack? E não focado em como se tornar um desenvolvedor web ou backend? A nossa missão será no final deste caminho, que você entenda sobre ambas as áreas, que envolvem o todo, "mas eu não gosto de front-end, não gosto de css", "eu não sou desenvolvedor backend, não nasci pra isso, java, deus me livre", você vai ouvir muito disso no seu caminho, até mesmo você pode ter falado algo parecido. Não é certo que em 200 dias você será um dev full stack, isso depende do seu empenho e tempo de aprendizado, não force isso!
@@ -116,9 +116,7 @@ O que aprendi com essas lições? Busque sempre algo que te motive e trabalhe co
 
 Lembre-se, seu objetivo é achar uma vaga de desenvolvedor, procure algumas vagas na sua cidade,olhe o que estão precisando, qual framework, outro meio entre em [Vagas Front-end](https://github.com/frontendbr) de uma olhada nas vagas em aberto, olhe as skills necessárias e foque nelas, foque em uma vaga. 
 
-
 **Note: React é uma biblioteca Javascript para construir UI, aprenda react no site oficial.**
-
 
 Temos um gráfico abaixo de desenvolvimento web e como suas tecnologias estão conectadas
 
