@@ -48,7 +48,7 @@ Ok ok, é muita teoria né? Vamos por a mão na massa?!
 ### CHALLENGE 
 
 - [100 Dias com CSS](https://100dayscss.com/)
-- [Escolha algum template e faça!](https://codier.io/)
+- [Escolha algum template e faça](https://codier.io/)
 
 ### Dias 16-50 Comece aprender o básico de Javascript
 
@@ -67,11 +67,36 @@ Interativo e com vários desafios para resolver.
 
 Muitos não tem o hábito de ler, mas é essencial estudar com algum livro, leia os livros e só passe para o próximo assunto após entender, e além de tudo faça todos os exercícios.
 
-[JavaScript Eloquente 2ª Edição (gratuito)](https://github.com/braziljs/eloquente-javascript)
-[You Don’t Know JS (gratuito)](https://github.com/getify/You-Dont-Know-JS)
+- [JavaScript Eloquente 2ª Edição (gratuito)](https://github.com/braziljs/eloquente-javascript)
+- [You Don’t Know JS (gratuito)](https://github.com/getify/You-Dont-Know-JS)
 
 ### Dia 51-81: 30 Dias de desafios Javascript
 30 dias de desafios javascript é do iniciante para intermediario, ou pra quem se sentir confortável com javascript
 
 
 ![ScreenShot](images/freecodecamp.png)
+
+Você deve saber um pouco de js para começar, lembrando que esse não é um curso de javascript, aprendemos com a mão na massa, fazendo. Você vai enfrentar muitas situações novas e conversando sobre os comos, os porquês e o que usamos para resolvê-los.
+
+Ok, você percebeu que evitamos bibliotecas, padrões de design, estruturas e qualquer tipo de abstração? Essas coisas são ótimas e frequentemente necessárias. Mas podem obstruir o aprendizado e registrintir o entendimento inicial. Hoje acontece muito com os novos desenvolvedores eles vão direto para os frameworks, exemplo: Angular, mas sem saber Javascript, o básico, vão direto usar boostrap sem entender css, sem entender o que está acontecendo por trás, é realmente importante antes de iniciar em qualquer bibliotecas, frameworks, padrões de design, entender o básico e saber o que acontece de baixo dos panos, nunca se sabe quando vai precisar mudar algo não é mesmo?
+
+
+Esses tutoriais dependem muito das APIS do navegador, a maioria das quais envolve interação com a página. Se você estiver preso no console, console.log(), esses vídeos serão o próximo passo. O material que você constrói aqui é realmente divertido.
+
+O curso é gratuito, diverto e desafiador ao longo de 30 dias, todo dia você irá receber um novo desafio para construir, quando você concluir o curso, você deverá se sentir à vontade com Javascript, interagindo com o DOM e trabalhando com as APIs do navegador.
+
+
+### Dias 82-85 Git
+
+É essencial nas skills de um desenvolvedor entender sobre o git, é uma coisa simples e você precisa dominar.
+
+Por que é necessário? Git é um sistema de controle de versionamento de arquivos, através dele os desenvolvedores podem compartilhar os projetos na qual diversas pessoas podem contribuir simultaneamente no mesmo, editando e criando novos arquivos, permitindo que os dois exitam sem risco de alterações sobrescristas e com histórico.
+
+- [Tutorial de git básico e introdução](https://www.hostinger.com.br/tutoriais/tutorial-do-git-basics-introducao/)
+- [Git guide](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
+- [Plano para estudar git e github](https://medium.com/trainingcenter/plano-para-estudar-git-e-github-enquanto-aprende-programa%C3%A7%C3%A3o-f5d5f986f459)
+
+Os próximos códigos que você desenvolver ou projeto, crie um repositorio privado e faça alguns commits e matenha o código versonado e não faça commits com mensagens inúteis ou **zoados", o histórico é o seu melhor amigo, então tente manter sempre o mais objetivo possível.
+
+
+### Dias 85-120 Aprenda algum framework ou biblioteca (React, Vue, Angular)
