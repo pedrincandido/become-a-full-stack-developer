@@ -11,7 +11,7 @@
 |2 | [Dias 16-50 Comece aprender o básico de Javascript?](#dias-16-50-comece-aprender-o-básico-de-javascript)|
 |3 | [Dias 51-81 30 Dias de desafios Javascript](#dias-51-81-30-dias-de-desafios-javascript)|
 |4 | [Dias 82-85 Git](#dias-82-85-git)|
-|4 | [85-120 Aprenda algum framework ou biblioteca (React, Vue, Angular)](#85-120-aprenda-algum-framework-ou-biblioteca)|
+|4 | [85-120 Aprenda algum framework ou biblioteca](#85-120-aprenda-algum-framework-ou-biblioteca)|
 
 
 Essa rota vai levar você pelos caminhos de um desenvolvedor full stack em 200 dias. Eu sou um programador autodita, estou aprendendo todos os dias. Meu primeiro contato com o mundo de TI, a programação em si, foi quando eu tinha 17 anos, na faculdade de sistemas de informação, hoje tenho 24. Porque esse é um caminho full stack? E não focado em como se tornar um desenvolvedor web ou backend? A nossa missão será no final deste caminho, que você entenda sobre ambas as áreas, que envolvem o todo, "mas eu não gosto de front-end, não gosto de css", "eu não sou desenvolvedor backend, não nasci pra isso, java, deus me livre", você vai ouvir muito disso no seu caminho, até mesmo você pode ter falado algo parecido. Não é certo que em 200 dias você será um dev full stack, isso depende do seu empenho e tempo de aprendizado, não force isso!
@@ -103,7 +103,7 @@ Por que é necessário? Git é um sistema de controle de versionamento de arquiv
 Os próximos códigos que você desenvolver ou projeto, crie um repositorio privado e faça alguns commits e matenha o código versonado e não faça commits com mensagens inúteis ou **zoados", o histórico é o seu melhor amigo, então tente manter sempre o mais objetivo possível.
 
 
-### Dias 85-120 Aprenda algum framework ou biblioteca (React, Vue, Angular)
+### Dias 85-120 Aprenda algum framework ou biblioteca
 
 Primeiro de tudo, não saia já procurando algum curso na udemy, no google, nem nada. Calma na alma. Pergunte a qualquer empresa competitiva, uma software house, se eles estão usando algum tipo de biblioteca de front-end e a resposta será sim. Nos velhos tempos (2000), as empresas arregaçavam as mangas e construíam as suas estruturas próprias e bibliotecas internas adaptadas às suas necessidades. O desenvolviment moderno é sobre o uso de estruturas e bibliotecas de código fonte aberto, como React, Vue, Angular.
 
