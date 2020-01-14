@@ -176,5 +176,8 @@ As tecnologias se agrupam em ecossistemas relacionados que tendem a ser usados p
 
 
 Sobre banco de dados, é interessante começar do início(básico), MER e DER (Modelagem de banco de dados), pra você entender como funciona as ligações e interações de cada tabela, depois a parte de SQL. 
+
+É bom ver sobre banco de dados relacionais e não relacionais
+
 ### Dias 190-200 Aprender DevOps(Docker, Heroku, AWS)
 
