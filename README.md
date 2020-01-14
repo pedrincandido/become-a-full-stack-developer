@@ -8,9 +8,9 @@
 | No. | Questions |
 |---- | ---------
 |1 | [Dias 1-15 Aprender o básico de HTML E CSS](#dias-1-15-aprender-o-básico-de-html-e-css)|
-|2 | [Dias 16-50 - Comece aprender o básico de Javascript?](#qual-a-diferença-entre-angularjs-e-angular)|
+|2 | [Dias 16-50 Comece aprender o básico de Javascript?](#dias-16-50-comece-aprender-o-básico-de-javascript)|
 
-Essa rota, vai levar você pelos caminhos de um desenvolvedor full stack em 200 dias. Eu sou um programador autodita, estou aprendendo todos os dias, meu primeiro contato com o mundo de ti, a programação em si, foi quando eu tinha 17 anos, na faculdade de sistemas de informação, hoje tenho 2. Porquê essa é um caminho full stack? E não focado em como se tornar um desenvolvedor web ou backend? A nossa missão será no final deste caminho, você entenda sobre ambas as áreas, que envolvem o todo, "mas eu não gosto de front-end, não gosto de css", "eu não sou desenvolvedor backend, não nasci pra isso, java, deus me livre", você vai ouvir muito disso no seu caminho, até mesmo você pode ter falado algo parecido. Não é certo que em 200 dias você será um dev full stack, isso depende do seu empenho e tempo de aprendizado, não force isso!
+Essa rota vai levar você pelos caminhos de um desenvolvedor full stack em 200 dias. Eu sou um programador autodita, estou aprendendo todos os dias. Meu primeiro contato com o mundo de TI, a programação em si, foi quando eu tinha 17 anos, na faculdade de sistemas de informação, hoje tenho 24. Porque esse é um caminho full stack? E não focado em como se tornar um desenvolvedor web ou backend? A nossa missão será no final deste caminho, que você entenda sobre ambas as áreas, que envolvem o todo, "mas eu não gosto de front-end, não gosto de css", "eu não sou desenvolvedor backend, não nasci pra isso, java, deus me livre", você vai ouvir muito disso no seu caminho, até mesmo você pode ter falado algo parecido. Não é certo que em 200 dias você será um dev full stack, isso depende do seu empenho e tempo de aprendizado, não force isso!
 
 
 "Eu poderia fazer um bootcamp de 60 dias e se desenvolvedor fullstack"
@@ -49,7 +49,7 @@ Ok ok, é muita teoria né? Vamos por a mão na massa?!
 [100 Dias com CSS](https://100dayscss.com/)
 [Escolha algum template e faça!](https://codier.io/)
 
-### Dias 16-50 - Comece aprender o básico de Javascript
+### Dias 16-50 Comece aprender o básico de Javascript
 
 Javascript é a linguagem de programação mais popular, com dezenas de framework. Javascript é a linguagem de programação mais difundida, todo website usa. Se você usa algum browser moderno desative o javascript e navegue na Web, você notará muito rapidamente que 97% dos sites não funcionarão corretamente ou nem serão carregados.
 
