@@ -46,8 +46,9 @@ Esse é o inicio da sua jornada, é crucial focar nos fundamentos. É um inicio 
 Ok ok, é muita teoria né? Vamos por a mão na massa?!
 
 ### CHALLENGE 
-[100 Dias com CSS](https://100dayscss.com/)
-[Escolha algum template e faça!](https://codier.io/)
+    1. [100 Dias com CSS](https://100dayscss.com/)
+    2. [Escolha algum template e faça!](https://codier.io/)
+
 
 ### Dias 16-50 Comece aprender o básico de Javascript
 
