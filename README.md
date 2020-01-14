@@ -142,9 +142,9 @@ Aqui vai um repositório com perguntas e respostas da pra aprender bastante tamb
 
 ### Dias 120-122 Rest
 Representational State Transfer(Transferência Representacional de Estado), é um estilo de arquitetura de software que define um conjunto de restrições a serem usados para criação de web services.
-[Rest Principios e boas práticas](https://blog.caelum.com.br/rest-principios-e-boas-praticas/)
-[O que é api rest e restful](https://becode.com.br/o-que-e-api-rest-e-restful/)
-[Rest](https://www.youtube.com/watch?v=S7MduKwvVGk)
+- [Rest Principios e boas práticas](https://blog.caelum.com.br/rest-principios-e-boas-praticas/)
+- [O que é api rest e restful](https://becode.com.br/o-que-e-api-rest-e-restful/)
+- [Rest](https://www.youtube.com/watch?v=S7MduKwvVGk)
 
 ### Dias 122-30 Orientação a objetos e Programação Funcional
 Programação orientada a objetos(POO ou OOP) é um paradigma de programação baseado no conceito de "objetos".
