@@ -9,6 +9,10 @@
 |---- | ---------
 |1 | [Dias 1-15 Aprender o básico de HTML E CSS](#dias-1-15-aprender-o-básico-de-html-e-css)|
 |2 | [Dias 16-50 Comece aprender o básico de Javascript?](#dias-16-50-comece-aprender-o-básico-de-javascript)|
+|3 | [Dias 51-81 30 Dias de desafios Javascript](#dias-51-81-30-dias-de-desafios-javascript)|
+|4 | [Dias 82-85 Git](#dias-82-85-git)|
+|4 | [85-120 Aprenda algum framework ou biblioteca (React, Vue, Angular)](#85-120-aprenda-algum-framework-ou-biblioteca)|
+
 
 Essa rota vai levar você pelos caminhos de um desenvolvedor full stack em 200 dias. Eu sou um programador autodita, estou aprendendo todos os dias. Meu primeiro contato com o mundo de TI, a programação em si, foi quando eu tinha 17 anos, na faculdade de sistemas de informação, hoje tenho 24. Porque esse é um caminho full stack? E não focado em como se tornar um desenvolvedor web ou backend? A nossa missão será no final deste caminho, que você entenda sobre ambas as áreas, que envolvem o todo, "mas eu não gosto de front-end, não gosto de css", "eu não sou desenvolvedor backend, não nasci pra isso, java, deus me livre", você vai ouvir muito disso no seu caminho, até mesmo você pode ter falado algo parecido. Não é certo que em 200 dias você será um dev full stack, isso depende do seu empenho e tempo de aprendizado, não force isso!
 
@@ -70,7 +74,7 @@ Muitos não tem o hábito de ler, mas é essencial estudar com algum livro, leia
 - [JavaScript Eloquente 2ª Edição (gratuito)](https://github.com/braziljs/eloquente-javascript)
 - [You Don’t Know JS (gratuito)](https://github.com/getify/You-Dont-Know-JS)
 
-### Dia 51-81: 30 Dias de desafios Javascript
+### Dias 51-81 30 Dias de desafios Javascript
 30 dias de desafios javascript é do iniciante para intermediario, ou pra quem se sentir confortável com javascript
 
 
@@ -100,3 +104,42 @@ Os próximos códigos que você desenvolver ou projeto, crie um repositorio priv
 
 
 ### Dias 85-120 Aprenda algum framework ou biblioteca (React, Vue, Angular)
+
+Primeiro de tudo, não saia já procurando algum curso na udemy, no google, nem nada. Calma na alma. Pergunte a qualquer empresa competitiva, uma software house, se eles estão usando algum tipo de biblioteca de front-end e a resposta será sim. Nos velhos tempos (2000), as empresas arregaçavam as mangas e construíam as suas estruturas próprias e bibliotecas internas adaptadas às suas necessidades. O desenvolviment moderno é sobre o uso de estruturas e bibliotecas de código fonte aberto, como React, Vue, Angular.
+
+Lembro quando trabalhei em uma empresa em brasília, usamos tecnologias de 2006-2007, sistemas legados e novos sistemas sendo construídos em cima deles, nada de inovação. Meu conhecimento ficou estagnado e eu pensando que seria só no inicio da carreira, recentemente fui pra uma empresa com seu próprio ERP, usavam Java 6, sem nenhum framework, 10 meses de tortura, por que tortura? Fiquei aquem do conhecimento, do mercado, desatualizado, quando decidi buscar uma nova oportunidade, tive que atualizar vários dos meus conhecimentos, além se eu tivesse continuado nessa empresa, estaria refém das suas tecnologias. 
+
+
+O que aprendi com essas lições? Busque sempre algo que te motive e trabalhe com o que você gosta, essa é a essência.
+
+É difícil decidir qual framework começar, você tem tantas opções
+
+Lembre-se, seu objetivo é achar uma vaga de desenvolvedor, procure algumas vagas na sua cidade,olhe o que estão precisando, qual framework, outro meio entre em [Vagas Front-end](https://github.com/frontendbr) de uma olhada nas vagas em aberto, olhe as skills necessárias e foque nelas, foque em uma vaga. 
+
+
+**Note: React é uma biblioteca Javascript para construir UI. Aprenda react no site oficial.**
+
+
+Temos um gráfico abaixo de desenvolvimento web e como suas tecnologias estão conectadas
+
+![ScreenShot](images/tecnologias-connected.png)
+
+Após você escolher um framework, antes de sair construindo coisas por ai, entre no site oficial do framework e faça o tutorial passo a passo até o fim, comece do básico, react, vue, angular, todos tem tutorials de início e todos com bastante conceitos e ensinamentos.
+
+- [Angular](https://angular.io/)
+- [Reactj](https://pt-br.reactjs.org/)    
+- [Vue](https://br.vuejs.org/index.html)
+
+Agora que você já fez o tutorial de start, saia por ai construindo coisas aqui tem 6 desafios pra você começar, [Desafios](https://medium.com/better-programming/here-are-6-frontend-challenges-to-code-9952190c97cc)
+
+Se você precisar de ajuda, você a todo momento pode ir na comunidade do github,stackOverflow, ou grupos no telegram, tem vários, muitas pessoas estão lá a todo momento. You're never alone(Você nunca está sozinho).
+
+**Lembre-se this is the way**
+
+Se você escolhe react, aqui está um livro gratuito [The road to learn react portuguese](https://github.com/the-road-to-learn-react/the-road-to-learn-react-portuguese)
+
+Recomendo fortemente esse livro, será de ótima ajuda em sua jornada.
+
+Aqui vai um repositório com perguntas e respostas da pra aprender bastante também.
+[Reactjs questões de entrevista](https://github.com/pedrincandido/reactjs-questoes-de-entrevista)
+[Angular questões de entrevista](https://github.com/pedrincandido/angular-questoes-entrevista)
