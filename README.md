@@ -127,19 +127,17 @@ Temos um gráfico abaixo de desenvolvimento web e como suas tecnologias estão c
 Após você escolher um framework, antes de sair construindo coisas por ai, entre no site oficial do framework e faça o tutorial passo a passo até o fim, comece do básico, react, vue, angular, todos tem tutorials de início e todos com bastante conceitos e ensinamentos.
 
 - [Angular](https://angular.io/)
-- [Reactj](https://pt-br.reactjs.org/)    
+- [React](https://pt-br.reactjs.org/)    
 - [Vue](https://br.vuejs.org/index.html)
 
-Agora que você já fez o tutorial de start, saia por ai construindo coisas aqui tem 6 desafios pra você começar, [Desafios](https://medium.com/better-programming/here-are-6-frontend-challenges-to-code-9952190c97cc)
+Agora que você já fez o tutorial de start, saia por ai construindo coisas aqui tem 6 desafios pra você começar, [desafios](https://medium.com/better-programming/here-are-6-frontend-challenges-to-code-9952190c97cc).
 
-Se você precisar de ajuda, você a todo momento pode ir na comunidade do github,stackOverflow, ou grupos no telegram, tem vários, muitas pessoas estão lá a todo momento. You're never alone(Você nunca está sozinho).
+Se você precisar de ajuda, você a todo momento pode ir na comunidade do github,stackOverflow, ou grupos no telegram, tem vários, muitas pessoas estão lá a todo momento. **You're never alone** (Você nunca está sozinho).
 
 **Lembre-se this is the way**
 
-Se você escolhe react, aqui está um livro gratuito [The road to learn react portuguese](https://github.com/the-road-to-learn-react/the-road-to-learn-react-portuguese)
-
-Recomendo fortemente esse livro, será de ótima ajuda em sua jornada.
+Se você escolhe react, aqui está um livro gratuito [The road to learn react portuguese](https://github.com/the-road-to-learn-react/the-road-to-learn-react-portuguese) Recomendo fortemente esse livro, será de ótima ajuda em sua jornada com conceitos básicos e um ótimo início.
 
 Aqui vai um repositório com perguntas e respostas da pra aprender bastante também.
-[Reactjs questões de entrevista](https://github.com/pedrincandido/reactjs-questoes-de-entrevista)
-[Angular questões de entrevista](https://github.com/pedrincandido/angular-questoes-entrevista)
+- [Reactjs questões de entrevista](https://github.com/pedrincandido/reactjs-questoes-de-entrevista)
+- [Angular questões de entrevista](https://github.com/pedrincandido/angular-questoes-entrevista)
