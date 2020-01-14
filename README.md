@@ -24,31 +24,31 @@ Tudo que usaremos nessa rota, será gratuito.
 Esse é o inicio da sua jornada, é crucial focar nos fundamentos. É um inicio pequeno, aprender Hypertext Markup Language (Linguagem de Marcação de texto, HTML). HTML é usado para construir qualquer bloco de código em qualquer web application. Complementando a skill, aprender Cascading Style Sheets (CSS). Css é usado para estilizar website e web applications. (Passar uma maquiagem Hahaha).
 
 
-[Começando com a web](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web "Começando com a web")
-[Instalando programas básicos](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/instalando_programas_basicos "Instalando programas básicos")
-[Com o que seu site vai parecer](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/com_que_seu_site_vai_parecer, "Com o que seu site vai parecer")
-[Lidando com arquivos](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/lidando_com_arquivos, "Lidando com arquivos")
-[Básico de HTML](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/HTML_basico, "Básico de HTML")
-[Básico de CSS](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/CSS_basico, "Básico de CSS")
-[Básico de JS](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/JavaScript_basico, "Básico de Javascript")
-[Publicando seu site](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/Publicando_seu_site, "Publicando seu site")
-[Como a web funciona](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/Como_a_Web_funciona, "Como a web funciona")
+1. [Começando com a web](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web "Começando com a web")
+2. [Instalando programas básicos](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/instalando_programas_basicos "Instalando programas básicos")
+3. [Com o que seu site vai parecer](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/com_que_seu_site_vai_parecer, "Com o que seu site vai parecer")
+4. [Lidando com arquivos](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/lidando_com_arquivos, "Lidando com arquivos")
+5. [Básico de HTML](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/HTML_basico, "Básico de HTML")
+6. [Básico de CSS](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/CSS_basico, "Básico de CSS")
+7. [Básico de JS](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/JavaScript_basico, "Básico de Javascript")
+8. [Publicando seu site](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/Publicando_seu_site, "Publicando seu site")
+9. [Como a web funciona](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/Como_a_Web_funciona, "Como a web funciona")
 
 
 ### BONUS 
 
-[O que é css e guia básicos](https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css/#Cursos-sobre-CSS)
-[O que é html e conceitos básicos](https://www.hostinger.com.br/tutoriais/o-que-e-html-conceitos-basicos/)
-[O que é html](https://www.weblink.com.br/blog/o-que-e-html/)
+1. [O que é css e guia básicos](https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css/#Cursos-sobre-CSS)
+2. [O que é html e conceitos básicos](https://www.hostinger.com.br/tutoriais/o-que-e-html-conceitos-basicos/)
+3. [O que é html](https://www.weblink.com.br/blog/o-que-e-html/)
 
 É um monte de trabalho para criar um site profissional, se você está iniciando agora com desenvolvimento web, eu encorajo você começear pequeno. Se você não está querendo construir o próximo facebook agora, recomendo você não pegar tão pesado, comece com o simples.
 
 Ok ok, é muita teoria né? Vamos por a mão na massa?!
 
 ### CHALLENGE 
-    1. [100 Dias com CSS](https://100dayscss.com/)
-    2. [Escolha algum template e faça!](https://codier.io/)
 
+1. [100 Dias com CSS](https://100dayscss.com/) |
+2. [Escolha algum template e faça!](https://codier.io/)
 
 ### Dias 16-50 Comece aprender o básico de Javascript
 
