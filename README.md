@@ -7,7 +7,8 @@
 
 | No. | Questions |
 |---- | ---------
-
+|1 | [Dias 1-15 Aprender o básico de HTML E CSS](#dias-1-15-aprender-o-basico-de-html-e-css)|
+|2 | [Qual a diferença entre AngualarJs e Angular?](#qual-a-diferença-entre-angularjs-e-angular)|
 
 Essa rota, vai levar você pelos caminhos de um desenvolvedor full stack em 200 dias. Eu sou um programador autodita, estou aprendendo todos os dias, meu primeiro contato com o mundo de ti, a programação em si, foi quando eu tinha 17 anos, na faculdade de sistemas de informação, hoje tenho 2. Porquê essa é um caminho full stack? E não focado em como se tornar um desenvolvedor web ou backend? A nossa missão será no final deste caminho, você entenda sobre ambas as áreas, que envolvem o todo, "mas eu não gosto de front-end, não gosto de css", "eu não sou desenvolvedor backend, não nasci pra isso, java, deus me livre", você vai ouvir muito disso no seu caminho, até mesmo você pode ter falado algo parecido. Não é certo que em 200 dias você será um dev full stack, isso depende do seu empenho e tempo de aprendizado, não force isso!
 
@@ -18,7 +19,7 @@ Não defendo a programação de botcamps, eles provaram ser eficazes. Eles tamb�
 
 Tudo que usaremos nessa rota, será gratuito.
 
-1. ### Dias 1-15 : Aprender o básico de HTML E CSS
+### Dias 1-15 Aprender o básico de HTML E CSS
 
 Esse é o inicio da sua jornada, é crucial focar nos fundamentos. É um inicio pequeno, aprender Hypertext Markup Language (Linguagem de Marcação de texto, HTML). HTML é usado para construir qualquer bloco de código em qualquer web application. Complementando a skill, aprender Cascading Style Sheets (CSS). Css é usado para estilizar website e web applications. (Passar uma maquiagem Hahaha).
 
@@ -48,7 +49,7 @@ Ok ok, é muita teoria né? Vamos por a mão na massa?!
 [100 Dias com CSS](https://100dayscss.com/)
 [Escolha algum template e faça!](https://codier.io/)
 
-2. ### Dia 16-50 - Comece aprender o básico de Javascript
+### Dia 16-50 - Comece aprender o básico de Javascript
 
 Javascript é a linguagem de programação mais popular, com dezenas de framework. Javascript é a linguagem de programação mais difundida, todo website usa. Se você usa algum browser moderno desative o javascript e navegue na Web, você notará muito rapidamente que 97% dos sites não funcionarão corretamente ou nem serão carregados.
 
@@ -61,14 +62,14 @@ Interativo e com vários desafios para resolver.
 
 ![ScreenShot](images/basic-javascript.png)
 
-FreeCodeCamp JavaScript curriculum — https://www.freecodecamp.org/learn
+            *FreeCodeCamp JavaScript curriculum — https://www.freecodecamp.org/learn*
 
 Muitos não tem o hábito de ler, mas é essencial estudar com algum livro, leia os livros e só passe para o próximo assunto após entender, e além de tudo faça todos os exercícios.
 
 [JavaScript Eloquente 2ª Edição (gratuito)](https://github.com/braziljs/eloquente-javascript)
 [You Don’t Know JS (gratuito)](https://github.com/getify/You-Dont-Know-JS)
 
-3. ### Dia 51-81: 30 Dias de desafios Javascript
+### Dia 51-81: 30 Dias de desafios Javascript
 30 dias de desafios javascript é do iniciante para intermediario, ou pra quem se sentir confortável com javascript
 
 
