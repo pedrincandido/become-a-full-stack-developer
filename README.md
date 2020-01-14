@@ -99,6 +99,7 @@ Por que é necessário? Git é um sistema de controle de versionamento de arquiv
 - [Tutorial de git básico e introdução](https://www.hostinger.com.br/tutoriais/tutorial-do-git-basics-introducao/)
 - [Git guide](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
 - [Plano para estudar git e github](https://medium.com/trainingcenter/plano-para-estudar-git-e-github-enquanto-aprende-programa%C3%A7%C3%A3o-f5d5f986f459)
+- [Curso de git gratuito](https://www.udemy.com/course/git-e-github-para-iniciantes/)
 
 Os próximos códigos que você desenvolver ou projeto, crie um repositorio privado e faça alguns commits e matenha o código versonado e não faça commits com mensagens inúteis ou **zoados", o histórico é o seu melhor amigo, então tente manter sempre o mais objetivo possível.
 
@@ -156,6 +157,22 @@ Programação funcional é um paradigma de programação que trata a computaçã
 Esses temas tem bastante material na internet, então de uma procurada.
 
 ### Dias 130-190 Aprender node, mongoDB e PostgreSQL(Backend development)
+Você chegou até aqui já, desistir não é uma opção. Agora que aprendemos como o desenvolvimento de front-end funciona, vamos adicionar algum conhecimento de back-end à nossa lista.
+
+Para criar uma aplicação real no desenvolvimento web, todo aplicativo possui um back-end. Nos dias modernos, um back-end é uma API que interage com o front-end.
+
+Mas por que precisamos de um back-end? Bem, digamos que os usuários possam criar usuários ao interagir com nosso aplicação. Necessitamos armazenar os dados de um usuário em algum lugar para usu futuro, usuário precisa autenticar para fazer uso da nossa aplicação. Por tanto precisamos de um serviço para criar usuários, alterar, remover, listar... o famoso "CRUD".
+O backend é um intermediário que interage com o banco de dados onde o front-end consome o dados, tudo é comunicado por meio de API.
+
+Segurança é uma outra razão de nós precisamos de um back-end. Lembre-se back-end nós sempre executamos no server-side, o que significa fora do contexto do browser. Outro ponto sensível você pode inspecionar o seu front-end via developer tools do navegador, este é um ponto de segurança pois não faz sentindo armazenar informações confidencias lá.
+
+[Curso de node gratuito](https://treinamento.nodebr.org/)
+
+Aqui está um grande gráfico com várias tecnologias conectadas. Não espero que você conheça todas ou aprenda todas, mas é importante estas familiarizados com a imagem, para saber onde você está.
+
+![ScreenShot](images/grafico-backend.png)
+
+As tecnologias se agrupam em ecossistemas relacionados que tendem a ser usados pelos mesmos desenvolvedores. Este gráfico de rede mostra isso, mostrando quais tecnologias estão mais altamente correlacionadas em si.
 
 ### Dias 190-200 Aprender DevOps(Docker, Heroku, AWS)
 
