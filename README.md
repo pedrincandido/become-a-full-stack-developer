@@ -12,7 +12,12 @@
 |3 | [Dias 51-81 30 Dias de desafios Javascript](#dias-51-81-30-dias-de-desafios-javascript)|
 |4 | [Dias 82-85 Git](#dias-82-85-git)|
 |5 | [Dias 85-120 Aprenda algum framework ou biblioteca](#dias-85-120-aprenda-algum-framework-ou-biblioteca)|
-
+|6 | [Dias 120-122 Rest](#dias-120-122-rest)|
+|7 | [Dias 122-130 Orientação a objetos e Programação Funcional](#dias-122-130-orientação-a-objetos-e-programação-funcional)|
+|8 | [Dias 130-190 Aprender node, mongoDB e PostgreSQL(Backend development)](#dias-130-190-aprender-node-mongodb-e-postgresql-backend-development)|
+|9 | [Dias 190-200 Aprender DevOps e GIT(Docker, Heroku, AWS, Kubernets)](#dias-190-200-aprender-devops-e-git-docker-heroku-aws-kubernets)|
+|10 | [Dia 201 Bonus](#dia-201-bonus)|
+|11 | [Dia 200+ Bonus](#dia-200+)|
 
 Essa rota vai levar você pelos caminhos de um desenvolvedor full stack em 200 dias. Eu sou um programador autodita, estou aprendendo todos os dias. Meu primeiro contato com o mundo de TI, a programação em si, foi quando eu tinha 17 anos, na faculdade de sistemas de informação, hoje tenho 24. Porque esse é um caminho full stack? E não focado em como se tornar um desenvolvedor web ou backend? A nossa missão será no final deste caminho, que você entenda sobre ambas as áreas, que envolvem o todo, "mas eu não gosto de front-end, não gosto de css", "eu não sou desenvolvedor backend, não nasci pra isso, java, deus me livre", você vai ouvir muito disso no seu caminho, até mesmo você pode ter falado algo parecido. Não é certo que em 200 dias você será um dev full stack, isso depende do seu empenho e tempo de aprendizado, não force isso!
 
@@ -147,7 +152,7 @@ Representational State Transfer(Transferência Representacional de Estado), é u
 - [O que é api rest e restful](https://becode.com.br/o-que-e-api-rest-e-restful/)
 - [Rest](https://www.youtube.com/watch?v=S7MduKwvVGk)
 
-### Dias 122-30 Orientação a objetos e Programação Funcional
+### Dias 122-130 Orientação a objetos e Programação Funcional
 Programação orientada a objetos(POO ou OOP) é um paradigma de programação baseado no conceito de "objetos".
 
 Programação funcional é um paradigma de programação que trata a computação como uma avaliação de funções matemáticas.
@@ -179,5 +184,19 @@ Sobre banco de dados, é interessante começar do início(básico), MER e DER (M
 
 É bom ver sobre banco de dados relacionais e não relacionais
 
-### Dias 190-200 Aprender DevOps(Docker, Heroku, AWS)
+### Dias 190-200 Aprender DevOps e GIT (Docker, Heroku, AWS, Kubernets)
 
+Para mostrar todas suas habilidades de desenvolvimento web, é essencial hospedar seu aplicaito web. A empresa que você planeja entrarar, deseja ver seu trabalho em algum lugar, antes mesmo que esteja concluído. Aprenda a usar o git para hospedar seus projetos nas páginas do github - não custa nada. Aws tem 700+ horas de maquina gratuita, pra aprender, na AWS você pode publicar tanto a API quanto a parte de front-end. No github você pode hospeadar apenas o código do lado do cliente(front-end).
+
+![ScreenShot](images/github.png)
+
+### DIA 201 BONUSS
+
+Achou que tinha acabado? Estarei colocando alguns challenge de empresas aqui, a primeira é a ZUP, tem os testes para back-end e front-end, sinta-se a vontade para iniciar no seu tempo.
+
+[ZUP INNOVATION](https://github.com/ZupIT/zup-test)
+[XP INVESTIMENTOS](https://github.com/grupo-xp/challenge)
+
+### DIA 200+
+
+Chegou o momento, ache alguma vaga e aplique-se, lembre-se de deixar o linkedin atualizado, poste sobre as coisas que você está desenvolvendo, creça seu networking, adicione várias pessoas das empresas que de ti que você está/ou não interessado, oportunidades sempre são bem vindas.
