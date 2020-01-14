@@ -194,8 +194,8 @@ Para mostrar todas suas habilidades de desenvolvimento web, é essencial hospeda
 
 Achou que tinha acabado? Estarei colocando alguns challenge de empresas aqui, a primeira é a ZUP, tem os testes para back-end e front-end, sinta-se a vontade para iniciar no seu tempo.
 
-[ZUP INNOVATION](https://github.com/ZupIT/zup-test)
-[XP INVESTIMENTOS](https://github.com/grupo-xp/challenge)
+- [ZUP INNOVATION](https://github.com/ZupIT/zup-test)
+- [XP INVESTIMENTOS](https://github.com/grupo-xp/challenge)
 
 ### DIA 200+
 
