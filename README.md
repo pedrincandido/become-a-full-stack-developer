@@ -6,17 +6,18 @@
 
 | No. | Questions |
 |---- | ---------
-|1 | [Dias 1-15 Aprender o básico de HTML E CSS](#dias-1-15-aprender-o-básico-de-html-e-css)|
-|2 | [Dias 16-50 Comece aprender o básico de Javascript?](#dias-16-50-comece-aprender-o-básico-de-javascript)|
-|3 | [Dias 51-81 30 Dias de desafios Javascript](#dias-51-81-30-dias-de-desafios-javascript)|
-|4 | [Dias 82-85 Git](#dias-82-85-git)|
-|5 | [Dias 85-120 Aprenda algum framework ou biblioteca](#dias-85-120-aprenda-algum-framework-ou-biblioteca)|
-|6 | [Dias 120-122 Rest](#dias-120-122-rest)|
-|7 | [Dias 122-130 Orientação a objetos e Programação Funcional](#dias-122-130-orientação-a-objetos-e-programação-funcional)|
-|8 | [Dias 130-190 Aprender node, mongoDB e PostgreSQL(Backend development)](#dias-130-190-aprender-node-mongodb-e-postgresql-backend-development)|
-|9 | [Dias 190-200 Aprender DevOps e GIT(Docker, Heroku, AWS, Kubernets)](#dias-190-200-aprender-devops-e-git-docker-heroku-aws-kubernets)|
-|10 | [Dia 201 Bonus](#dia-201-bonus)|
-|11 | [Dia 200+ Bonus](#dia-200+)|
+|1 | [Dias 1 Aprender o básico sobre internet](#dia-1-internet)|
+|2 | [Dias 2-15 Aprender o básico de HTML E CSS](#dias-2-15-aprender-o-básico-de-html-e-css)|
+|3 | [Dias 16-50 Comece aprender o básico de Javascript?](#dias-16-50-comece-aprender-o-básico-de-javascript)|
+|4 | [Dias 51-81 30 Dias de desafios Javascript](#dias-51-81-30-dias-de-desafios-javascript)|
+|5 | [Dias 82-85 Git](#dias-82-85-git)|
+|6 | [Dias 85-120 Aprenda algum framework ou biblioteca](#dias-85-120-aprenda-algum-framework-ou-biblioteca)|
+|7 | [Dias 120-122 Rest](#dias-120-122-rest)|
+|8 | [Dias 122-130 Orientação a objetos e Programação Funcional](#dias-122-130-orientação-a-objetos-e-programação-funcional)|
+|9 | [Dias 130-190 Aprender node, mongoDB e PostgreSQL(Backend development)](#dias-130-190-aprender-node-mongodb-e-postgresql-backend-development)|
+|10 | [Dias 190-200 Aprender DevOps e GIT(Docker, Heroku, AWS, Kubernets)](#dias-190-200-aprender-devops-e-git-docker-heroku-aws-kubernets)|
+|11 | [Dia 201 Bonus](#dia-201-bonus)|
+|12 | [Dia 200+ Bonus](#dia-200+)|
 
 Essa rota vai levar você pelos caminhos de um desenvolvedor full stack em 200 dias. Eu sou um programador autodita, estou aprendendo todos os dias. Meu primeiro contato com o mundo de TI, a programação em si, foi quando eu tinha 17 anos, na faculdade de sistemas de informação. Porque esse é um caminho full stack? E não focado em como se tornar um desenvolvedor web ou backend? A nossa missão será no final deste caminho, que você entenda sobre ambas as áreas, que envolvem o todo, "mas eu não gosto de front-end, não gosto de css", "eu não sou desenvolvedor backend, não nasci pra isso, java, deus me livre", você vai ouvir muito disso no seu caminho, até mesmo você pode ter falado algo parecido. Não é certo que em 200 dias você será um dev full stack, isso depende do seu empenho e tempo de aprendizado, não force isso!
 
@@ -46,17 +47,39 @@ para mais roadmaps acesse - [ROADMAP](https://roadmap.sh/)
 
 ![ScreenShot](images/frontend.png)
 
-### Dias 1-15 Aprender o básico de HTML E CSS
+### Dia 1 Internet
+
+Antes de mais nada, assista esse vídeo do Filipe Deschamps, esse vídeo é extremamente especial para quem está começando.
+- [Minha carreira teria sido muito melhor](https://www.youtube.com/watch?v=NA4srP35Maw&ab_channel=FilipeDeschamps, "Minha carreira teria sido muito melhor")
+- [How does the internet work](https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/How_does_the_Internet_work "Como a internet funciona")
+- [What is HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Overview, "O que é HTTP")
+- [What is a browser](https://www.mozilla.org/pt-BR/firefox/browsers/what-is-a-browser/, "O que é um browser")
+- [How browsers work](https://www.html5rocks.com/pt/tutorials/internals/howbrowserswork/#Introduction, "Como os browser trabalham")
+
+Esse tutorial acima, traz uma abordagem de como o software "navegador" funciona, apresenta os mecanismos de renderização, DOM, HTML, recomendo a leitura mas, tem muita informação para quem está começando. Sugiro também assistir esse vídeo do canal Alura no youtube. 
+
+- [Como funcionam os navegadores Web?](https://www.youtube.com/watch?v=kDy62zaCHZE&ab_channel=AluraCursosOnline, "Como funcionam os navegadores web")
+- [O que é DNS](https://blog.diferencialti.com.br/servidor-dns/#:~:text=Basicamente%2C%20o%20DNS%20permite%20que,qual%20a%20p%C3%A1gina%20est%C3%A1%20armazenada, "O que é DNS")
+- [DNS: o que é, como funciona e como configurar o DNS de um domínio](https://rockcontent.com/br/blog/dns/, "DNS: o que é, como funciona e como configurar o DNS de um domínio")
+
+Um vídeo ótimo, objetivo, claro e dinãmico sobre o tema DNS 
+- [O que é DNS? Como funciona? Domain Name System](https://www.youtube.com/watch?v=2zqGtfVGABU&ab_channel=CanalTI, "O que é DNS")
+
+
+### Dias 2-15 Aprender o básico de HTML E CSS
 
 Esse é o inicio da sua jornada, é crucial focar nos fundamentos. É um inicio pequeno, aprender Hypertext Markup Language (Linguagem de Marcação de texto, HTML). HTML é usado para construir qualquer bloco de código em qualquer web application. Complementando a skill, aprender Cascading Style Sheets (CSS). Css é usado para estilizar website e web applications. (Passar uma maquiagem Hahaha).
 
+Antes de começar vou te apresentar uma ferramenta incrível que vai te ajudar muito nos seus dias como programador web, o famoso "Inspecionar", aqui mesmo clique com o botão direito na tela e clique em inspecionar, vai ser aberto para você algo semelhante a isso, tudo vai depender do seu navegador.
+
+
 - [Começando com a web](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web "Começando com a web")
+- [Como a web funciona](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/How_the_Web_works, "Como a web funciona")
 - [Instalando programas básicos](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/instalando_programas_basicos "Instalando programas básicos")
 - [Com o que seu site vai parecer](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/com_que_seu_site_vai_parecer, "Com o que seu site vai parecer")
 - [Lidando com arquivos](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/lidando_com_arquivos, "Lidando com arquivos")
 - [Básico de HTML](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/HTML_basico, "Básico de HTML")
 - [Básico de CSS](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/CSS_basico, "Básico de CSS")
-- [Básico de JS](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/JavaScript_basico, "Básico de Javascript")
 - [Publicando seu site](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/Publicando_seu_site, "Publicando seu site")
 - [Como a web funciona](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/Como_a_Web_funciona, "Como a web funciona")
 
@@ -82,6 +105,7 @@ Javascript é a linguagem de programação mais popular, com dezenas de framewor
 
 Por ser tão popular, temos muitos lugares para aprender Javascript gratuitamente, citarei alguns abaixo
 
+- [Básico de JS](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/JavaScript_basico, "Básico de Javascript")
 
 ![ScreenShot](images/freecodecamp.png)
 
