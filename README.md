@@ -2,7 +2,6 @@
 
 > Clique :star: Se você gostou desse projeto. Pull Request será muito apreciado. 
 
-
 ### Table of Contents
 
 | No. | Questions |
@@ -19,7 +18,7 @@
 |10 | [Dia 201 Bonus](#dia-201-bonus)|
 |11 | [Dia 200+ Bonus](#dia-200+)|
 
-Essa rota vai levar você pelos caminhos de um desenvolvedor full stack em 200 dias. Eu sou um programador autodita, estou aprendendo todos os dias. Meu primeiro contato com o mundo de TI, a programação em si, foi quando eu tinha 17 anos, na faculdade de sistemas de informação, hoje tenho 24. Porque esse é um caminho full stack? E não focado em como se tornar um desenvolvedor web ou backend? A nossa missão será no final deste caminho, que você entenda sobre ambas as áreas, que envolvem o todo, "mas eu não gosto de front-end, não gosto de css", "eu não sou desenvolvedor backend, não nasci pra isso, java, deus me livre", você vai ouvir muito disso no seu caminho, até mesmo você pode ter falado algo parecido. Não é certo que em 200 dias você será um dev full stack, isso depende do seu empenho e tempo de aprendizado, não force isso!
+Essa rota vai levar você pelos caminhos de um desenvolvedor full stack em 200 dias. Eu sou um programador autodita, estou aprendendo todos os dias. Meu primeiro contato com o mundo de TI, a programação em si, foi quando eu tinha 17 anos, na faculdade de sistemas de informação. Porque esse é um caminho full stack? E não focado em como se tornar um desenvolvedor web ou backend? A nossa missão será no final deste caminho, que você entenda sobre ambas as áreas, que envolvem o todo, "mas eu não gosto de front-end, não gosto de css", "eu não sou desenvolvedor backend, não nasci pra isso, java, deus me livre", você vai ouvir muito disso no seu caminho, até mesmo você pode ter falado algo parecido. Não é certo que em 200 dias você será um dev full stack, isso depende do seu empenho e tempo de aprendizado, não force isso!
 
 
 "Eu poderia fazer um bootcamp de 60 dias e se desenvolvedor fullstack"
@@ -28,10 +27,28 @@ Não defendo a programação de botcamps, eles provaram ser eficazes. Eles tamb�
 
 Tudo que usaremos nessa rota, será gratuito.
 
+"This is the way" - the mandalorian 
+
+The best way to predict the future is to create it."
+                       - Abraham Lincoln 👍
+
+Deixarei uma iniciativa do Breno Machado, ele tem uma timeline de uma pessoa desenvolvedora web, com vários conteúdos gratuítos.
+
+- [AJUDA DEV](http://ajudadev.com.br/)
+
+![ScreenShot](images/ajudadev.jpeg)
+
+### Antes de começar
+ 
+Iremos ver um roadmap front-end, ok ok, é só pra ter uma overview do que iremos estudar, tentarei seguir o mais fiel possível esse roadmap.
+
+para mais roadmaps acesse - [ROADMAP](https://roadmap.sh/) 
+
+![ScreenShot](images/frontend.png)
+
 ### Dias 1-15 Aprender o básico de HTML E CSS
 
 Esse é o inicio da sua jornada, é crucial focar nos fundamentos. É um inicio pequeno, aprender Hypertext Markup Language (Linguagem de Marcação de texto, HTML). HTML é usado para construir qualquer bloco de código em qualquer web application. Complementando a skill, aprender Cascading Style Sheets (CSS). Css é usado para estilizar website e web applications. (Passar uma maquiagem Hahaha).
-
 
 - [Começando com a web](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web "Começando com a web")
 - [Instalando programas básicos](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/instalando_programas_basicos "Instalando programas básicos")
@@ -63,7 +80,7 @@ Ok ok, é muita teoria né? Vamos por a mão na massa?!
 
 Javascript é a linguagem de programação mais popular, com dezenas de framework. Javascript é a linguagem de programação mais difundida, todo website usa. Se você usa algum browser moderno desative o javascript e navegue na Web, você notará muito rapidamente que 97% dos sites não funcionarão corretamente ou nem serão carregados.
 
-Por ser tão popular, temos muitos lugares para aprender Javascript gratuitamente, citarei alguns gratuitamente
+Por ser tão popular, temos muitos lugares para aprender Javascript gratuitamente, citarei alguns abaixo
 
 
 ![ScreenShot](images/freecodecamp.png)
