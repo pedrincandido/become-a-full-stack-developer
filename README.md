@@ -149,7 +149,6 @@ Por que é necessário? Git é um sistema de controle de versionamento de arquiv
 
 Os próximos códigos que você desenvolver ou projeto, crie um repositorio privado e faça alguns commits e matenha o código versonado e não faça commits com mensagens inúteis ou **zoados", o histórico é o seu melhor amigo, então tente manter sempre o mais objetivo possível.
 
-
 ### Dias 85-120 Aprenda algum framework ou biblioteca
 
 Primeiro de tudo, não saia já procurando algum curso na udemy, no google, nem nada. Calma na alma. Pergunte a qualquer empresa competitiva, uma software house, se eles estão usando algum tipo de biblioteca de front-end e a resposta será sim. Nos velhos tempos (2000), as empresas arregaçavam as mangas e construíam as suas estruturas próprias e bibliotecas internas adaptadas às suas necessidades. O desenvolviment moderno é sobre o uso de estruturas e bibliotecas de código fonte aberto, como React, Vue, Angular.
