@@ -155,7 +155,6 @@ Primeiro de tudo, não saia já procurando algum curso na udemy, no google, nem 
 
 Lembro quando trabalhei em uma empresa em brasília, usamos tecnologias de 2006-2007, sistemas legados e novos sistemas sendo construídos em cima deles, nada de inovação. Meu conhecimento ficou estagnado e eu pensando que seria só no inicio da carreira, recentemente fui pra uma empresa com seu próprio ERP, usavam Java 6, sem nenhum framework, 10 meses de tortura, por que tortura? Fiquei aquem do conhecimento, do mercado, desatualizado, quando decidi buscar uma nova oportunidade, tive que atualizar vários dos meus conhecimentos, além se eu tivesse continuado nessa empresa, estaria refém das suas tecnologias. 
 
-
 O que aprendi com essas lições? Busque sempre algo que te motive e trabalhe com o que você gosta, essa é a essência.
 
 É difícil decidir qual framework começar, você tem tantas opções
